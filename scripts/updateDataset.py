@@ -40,6 +40,7 @@ def compileSubsets():
 	for i in range(len(subsetGroups)):
 		subsets = subsetGroups[i]
 		chains = {}
+		startingWords = set()
 
 		for j in range(len(subsets) - 1):
 			curr = subsets[j]
@@ -54,6 +55,9 @@ def compileSubsets():
 				if not word in chains: chains[word] = []
 				blacklistDict = blacklist.get(word) or []
 
+				if j == 0 or j == 1:
+					startingWords.add(word)
+
 				for chained in nextWords:
 					if chained in blacklistDict or chained in chains[word]: continue
 					chains[word].append(chained)
@@ -64,6 +68,7 @@ def compileSubsets():
 		dataset = {
 			"version": sha,
 			"updated_at": datetime.now(timezone.utc).isoformat(),
+			"startingWords": startingWords,
 			"data": chains,
 		}
 		changed.append(path)

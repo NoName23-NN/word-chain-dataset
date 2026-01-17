@@ -1,0 +1,16 @@
+{
+  "version": null,
+  "updated_at": "",
+  "data": {
+	"cuff": [
+		"link"
+	],
+	"coin": [
+		"press"
+	],
+	"front": [
+		"entrance",
+		"view"
+	]
+  }
+}
