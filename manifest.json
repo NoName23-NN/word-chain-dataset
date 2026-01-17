@@ -1,6 +1,6 @@
 {
-  "version": "38f71c7c3355c2b6e7034d591b64209a9158e660",
-  "updated_at": "2026-01-14T21:26:34.771169+00:00",
+  "version": "f180175dc96bdd14addf4d0d590c9c9d05a8e7cd",
+  "updated_at": "2026-01-17T13:14:01.856713+00:00",
   "dataset": {
     "generated2": {
       "version": "38f71c7c3355c2b6e7034d591b64209a9158e660",
@@ -26,6 +26,11 @@
       "version": "38f71c7c3355c2b6e7034d591b64209a9158e660",
       "updated_at": "2026-01-14T21:26:34.771161+00:00",
       "url": "https://raw.githubusercontent.com/Fomecrazy/word-chain-dataset/38f71c7c3355c2b6e7034d591b64209a9158e660/data/dataset/generated/generated4.json"
+    },
+    "fome": {
+      "version": "f180175dc96bdd14addf4d0d590c9c9d05a8e7cd",
+      "updated_at": "2026-01-17T13:14:01.856398+00:00",
+      "url": "https://raw.githubusercontent.com/Fomecrazy/word-chain-dataset/f180175dc96bdd14addf4d0d590c9c9d05a8e7cd/data/dataset/curated/fome.json"
     }
   }
 }
