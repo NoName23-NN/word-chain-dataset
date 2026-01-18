@@ -55,7 +55,7 @@ def compileSubsets():
 				if not word in chains: chains[word] = []
 				blacklistDict = blacklist.get(word) or []
 
-				if (j == 0 or j == 1) and not word in startingWords:
+				if (j == 0) and not word in startingWords:
 					startingWords.append(word)
 
 				for chained in nextWords:

@@ -1,0 +1,20 @@
+{
+	"metadata": {},
+	"data": {
+		"farm": [
+			"animal",
+			"land"
+		],
+		"front": [
+			"view",
+			"entrance"
+		],
+		"moon": [
+			"light",
+			"river"
+		],
+		"corner": [
+			"shop"
+		]
+	}
+}
