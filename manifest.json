@@ -1,11 +1,11 @@
 {
-  "version": "4366641e0e3e33444cd977b2408cd5848d27ed5d",
-  "updated_at": "2026-01-21T18:58:58.564975+00:00",
+  "version": "af8ae4796f7c853450142f71fb6509f913750022",
+  "updated_at": "2026-01-21T19:04:46.096539+00:00",
   "dataset": {
     "main": {
-      "version": "4366641e0e3e33444cd977b2408cd5848d27ed5d",
-      "updated_at": "2026-01-21T18:58:58.564554+00:00",
-      "url": "https://raw.githubusercontent.com/Fomecrazy/word-chain-dataset/4366641e0e3e33444cd977b2408cd5848d27ed5d/data/dataset/generated/main.json"
+      "version": "af8ae4796f7c853450142f71fb6509f913750022",
+      "updated_at": "2026-01-21T19:04:46.096143+00:00",
+      "url": "https://raw.githubusercontent.com/Fomecrazy/word-chain-dataset/af8ae4796f7c853450142f71fb6509f913750022/data/dataset/generated/main.json"
     },
     "fome": {
       "version": "a17e2cf6f7e86491c6a42a4b90495d844f7c166f",
