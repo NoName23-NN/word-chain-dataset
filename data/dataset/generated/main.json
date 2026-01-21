@@ -248,6 +248,33 @@
       "headboard",
       "mattress",
       "base"
+    ],
+    "phone": [
+      "call",
+      "number",
+      "case",
+      "charger",
+      "screen",
+      "signal",
+      "service",
+      "plan",
+      "battery",
+      "ring",
+      "message",
+      "app",
+      "line",
+      "camera",
+      "cord",
+      "operator",
+      "voice",
+      "repair",
+      "tower",
+      "book",
+      "company",
+      "provider",
+      "contact",
+      "holder",
+      "stand"
     ]
   }
 }

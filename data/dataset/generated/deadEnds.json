@@ -1,5 +1,4 @@
 [
-  "phone",
   "computer",
   "screen",
   "keyboard",
@@ -235,5 +234,23 @@
   "tray",
   "warmer",
   "headboard",
-  "mattress"
+  "mattress",
+  "case",
+  "signal",
+  "plan",
+  "ring",
+  "message",
+  "app",
+  "line",
+  "camera",
+  "cord",
+  "operator",
+  "voice",
+  "repair",
+  "tower",
+  "company",
+  "provider",
+  "contact",
+  "holder",
+  "stand"
 ]
