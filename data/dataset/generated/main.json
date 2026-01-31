@@ -1833,6 +1833,7 @@
       "connector"
     ],
     "crash": [
+      "out",
       "test",
       "site",
       "course",
@@ -9541,6 +9542,10 @@
       "radio"
     ],
     "smart": [
+      "guy",
+      "person",
+      "move",
+      "call",
       "phone",
       "house",
       "car",
