@@ -1,6 +1,6 @@
 {
-  "version": "43ae04b5abd73ef56a4342479abc52c21520e2ad",
-  "updated_at": "2026-02-12T18:18:27.999212+00:00",
+  "version": "2c5149cd4ea49db62c7168c1ca41bd5521476bca",
+  "updated_at": "2026-03-04T21:31:36.843257+00:00",
   "data": {
     "house": [
       "plant",
@@ -4883,6 +4883,8 @@
       "room",
       "time",
       "place",
+      "well",
+      "bed",
       "point",
       "house",
       "station",
@@ -7360,6 +7362,10 @@
       "station",
       "bottle",
       "cup",
+      "gas",
+      "fuel",
+      "tank",
+      "car",
       "ink",
       "cartridge",
       "container",
@@ -7977,6 +7983,7 @@
       "plant",
       "grape",
       "growth",
+      "boom",
       "trellis",
       "climber",
       "stem",
@@ -10422,6 +10429,8 @@
       "case",
       "cover",
       "hood",
+      "color",
+      "size",
       "flare",
       "glare",
       "shade"
@@ -11047,6 +11056,8 @@
       "heart",
       "record",
       "box",
+      "drop",
+      "maker",
       "down",
       "up"
     ],
@@ -11127,6 +11138,7 @@
     ],
     "bank": [
       "account",
+      "safe",
       "loan",
       "deposit",
       "branch",
